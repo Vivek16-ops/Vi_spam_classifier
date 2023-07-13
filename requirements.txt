@@ -1,4 +1,3 @@
 scikit-learn
 nltk
 sklearn
-upgrade
